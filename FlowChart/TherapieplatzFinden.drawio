@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T18:08:59.796Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="baTgnXY7qxmnnNn_0xSp" version="24.7.1" type="github">
-  <diagram name="Seite-1" id="y5GKtIau-StgIG61rP2W">
-    <mxGraphModel dx="645" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300" pageHeight="400" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-07-18T20:09:17.079Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="MHAHO33-iokQLvnbnTwm" version="24.7.1" type="github">
+  <diagram name="Höchste Alarmstufe" id="y5GKtIau-StgIG61rP2W">
+    <mxGraphModel dx="1909" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,9 +15,11 @@
         <mxCell id="qqUwUdb11RV44TtI5OXr-8" value="&lt;div align=&quot;left&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;ul style=&quot;margin-left: 0px; padding-left: 20px; font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Du bist so am Ende, dass nichts mehr geht?&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Du hast öfter Panikattacken?&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Möglicherweise hast du auch Suizidgedanken?.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=left;fontSize=13;" parent="qqUwUdb11RV44TtI5OXr-6" vertex="1">
           <mxGeometry x="56" y="50" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="xkCjOQZeTOW2--ZDz4WN-2" value="&lt;div style=&quot;font-size: 12px;&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Bevor Sie sich oder andere verletzen, rufen Sie den Notarzt &lt;/font&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px;&quot;&gt;(112)&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt; oder begeben Sie sich in eine Notaufnahme.&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot; style=&quot;padding-left: 10px; padding-right: 10px; font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;Ansonsten hilft Ihnen der Ärztliche Bereitschaftsdienst &lt;/font&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px;&quot;&gt;(116 117)&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt; &lt;/font&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;oder die nächste psychiatrische Klinik.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;" vertex="1" parent="qqUwUdb11RV44TtI5OXr-6">
-          <mxGeometry x="31" y="190" width="220" height="160" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 12px;&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Bevor Sie sich oder andere verletzen, rufen Sie den Notarzt &lt;/font&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px;&quot;&gt;(112)&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt; oder begeben Sie sich in eine Notaufnahme.&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot; style=&quot;padding-left: 10px; padding-right: 10px; font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;Ansonsten hilft Ihnen der Ärztliche Bereitschaftsdienst &lt;/font&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px;&quot;&gt;(116 117)&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt; &lt;/font&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;oder die nächste psychiatrische Klinik.&lt;/font&gt;&lt;/div&gt;" link="metager.de" linkTarget="_blank" id="xkCjOQZeTOW2--ZDz4WN-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;" vertex="1" parent="qqUwUdb11RV44TtI5OXr-6">
+            <mxGeometry x="31" y="190" width="220" height="160" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
