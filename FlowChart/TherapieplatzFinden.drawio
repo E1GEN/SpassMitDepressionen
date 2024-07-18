@@ -1,9 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T16:18:58.919Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.1" etag="PT9VAyF9MNEtv_85bCSd" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T17:05:53.446Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="ykpPchPPxT-4V42GNaS_" version="24.7.1" type="github">
   <diagram name="Seite-1" id="y5GKtIau-StgIG61rP2W">
-    <mxGraphModel>
+    <mxGraphModel dx="296" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qqUwUdb11RV44TtI5OXr-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqUwUdb11RV44TtI5OXr-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#c01c28&quot;&gt;Höchste Alarmstufe&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#36393d;fontFamily=Comic Sans MS;fillColor=#ffcccc;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="220" height="360" as="geometry">
+            <mxRectangle x="110" y="420" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qqUwUdb11RV44TtI5OXr-8" value="&lt;div align=&quot;left&quot;&gt;&lt;ul style=&quot;margin-left: 0px; padding-left: 20px;&quot;&gt;&lt;li&gt;Du bist so am Ende, dass nichts mehr geht?&lt;/li&gt;&lt;li&gt;Du hast öfter Panikattacken?&lt;br&gt;&lt;/li&gt;&lt;li&gt;Möglicherweise hast du auch Suizidgedanken?.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=left;" vertex="1" parent="qqUwUdb11RV44TtI5OXr-6">
+          <mxGeometry x="20" y="40" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qqUwUdb11RV44TtI5OXr-14" value="&lt;div style=&quot;&quot; align=&quot;center&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 12px;&quot;&gt;Bevor Sie sich oder andere verletzen, rufen Sie den Notarzt (112) oder begeben Sie sich in eine Notaufnahme.&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot; style=&quot;padding-left: 10px; padding-right: 10px;&quot;&gt;&lt;font face=&quot;N2C-IegMrn4ta4kbXJDN&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;Ansonsten hilft Ihnen der Ärztliche Bereitschaftsdienst (116 117) oder die nächste psychiatrische Klinik.&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot; style=&quot;padding-left: 0px; margin-left: 0px;&quot;&gt;&lt;font face=&quot;N2C-IegMrn4ta4kbXJDN&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;hachureGap=4;fontFamily=Comic Sans MS;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;html=1;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="qqUwUdb11RV44TtI5OXr-6">
+          <mxGeometry x="20" y="170" width="200" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
