@@ -1,5 +1,20 @@
 title: "Spass mit Depressionen"
 description: "Eine einfache Jekyll-basierte Homepage"
-baseurl: "/SpassMitDepressionen" # Setze dies auf den Repository-Namen
+baseurl: "/SpassMitDepressionen"
 url: "https://e1gen.github.io"
-theme: minima
+theme: minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@latest"
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Dein Name"
+  avatar: "/assets/images/avatar.png" # Stelle sicher, dass du ein Avatar-Bild hochlädst
+  bio: "Hier kannst du eine kurze Beschreibung über dich hinzufügen."
+  location: "Stadt, Land"
+
+# Social Media Accounts
+social:
+  email: "email@example.com"
+  github: dein-benutzername
+  twitter: dein-twitter-handle
