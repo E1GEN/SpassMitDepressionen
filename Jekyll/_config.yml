@@ -1,0 +1,5 @@
+title: "Spass mit Depressionen"
+description: "Eine einfache Jekyll-basierte Homepage"
+baseurl: "/SpassMitDepressionen" # Setze dies auf den Repository-Namen
+url: "https://e1gen.github.io"
+theme: minima
